@@ -2,6 +2,11 @@
 
 cloab link--https://colab.research.google.com/drive/1LGFpG4u79-8aIa6iPrwq5o0Qat3HtQpE#scrollTo=lLAT0Tv2Nvsa
 
+NAME : PRITHIYUMAN A
+
+BATCH: DW67DW68
+
+DOMAIN : DATA SCIENCE
 
 Problem Statement:
 The Phonepe pulse Github repository contains a large amount of data related to
